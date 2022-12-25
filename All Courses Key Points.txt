@@ -1,0 +1,16 @@
+Tensorflow
+keras
+keras models
+keras layes 
+model optimizer
+loss function in model.compile
+epoch
+Computer Vision
+tf.keras.datasets examples
+model.fit
+tf.keras.callback => on_epoch_end
+CNN , Polling
+model.summary
+ImageDataGenerator
+Same size Dataset to Train On
+Learning Rate
